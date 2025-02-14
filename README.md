@@ -38,10 +38,5 @@ I love exploring new technologies and continuously improving my skills.
 
 ---
 
-### 📌 **Most Used Languages:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu8282&layout=compact&theme=radical)  
-
----
-
 ### 🚀 **Let's Connect & Build Something Amazing!**  
 Feel free to reach out if you want to collaborate or discuss new ideas.  
