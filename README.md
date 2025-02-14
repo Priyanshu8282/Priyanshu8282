@@ -7,18 +7,14 @@ I love exploring new technologies and continuously improving my skills.
 
 ---
 
-### 🔭 **Currently Working On:**  
-- 🛠 **Video-Sharing Platform** – A feature-rich platform with custom video player, VoIP, and cloud storage.  
-
 ### 🌱 **Currently Learning:**  
 - 💡 **Cloudinary for Image Uploads**  
 - 🚀 **Performance Optimization in MERN Stack**  
 
 ### 📫 **How to Reach Me:**  
 - 📩 Email: **priyanshus8282@gmail.com**  
-- 🔗 LinkedIn: [Priyanshu Sharma](https://www.linkedin.com/in/priyanshu-sharma)  
-- 🐦 Twitter: [@PriyanshuS8282](https://twitter.com/PriyanshuS8282)  
-- 📷 Instagram: [priyanshu_sharma](https://www.instagram.com/priyanshu_sharma)  
+- 🔗 LinkedIn: [Priyanshu Sharma](https://www.linkedin.com/in/priyanshu-sharma-642337245)  
+- 🌐 Portfolio: [[priyanshu-portfolio.com](https://portfolio-priyanshu-22.vercel.app)](#) 
 
 ### 📄 **My Resume:**  
 [📜 View Resume](#) (Add your resume link here)  
@@ -44,6 +40,3 @@ I love exploring new technologies and continuously improving my skills.
 ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu8282&show_icons=true&theme=radical)  
 
 ---
-
-### 🚀 **Let's Connect & Build Something Amazing!**  
-Feel free to reach out if you want to collaborate or discuss new ideas.  
