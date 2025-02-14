@@ -14,10 +14,7 @@ I love exploring new technologies and continuously improving my skills.
 ### 📫 **How to Reach Me:**  
 - 📩 Email: **priyanshus8282@gmail.com**  
 - 🔗 LinkedIn: [Priyanshu Sharma](https://www.linkedin.com/in/priyanshu-sharma-642337245)  
-- 🌐 Portfolio: [[priyanshu-portfolio.com](https://portfolio-priyanshu-22.vercel.app)](#) 
-
-### 📄 **My Resume:**  
-[📜 View Resume](#) (Add your resume link here)  
+- 🌐 Portfolio: [priyanshu-portfolio.com](https://portfolio-priyanshu-22.vercel.app)  
 
 ---
 
@@ -40,3 +37,11 @@ I love exploring new technologies and continuously improving my skills.
 ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu8282&show_icons=true&theme=radical)  
 
 ---
+
+### 📌 **Most Used Languages:**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu8282&layout=compact&theme=radical)  
+
+---
+
+### 🚀 **Let's Connect & Build Something Amazing!**  
+Feel free to reach out if you want to collaborate or discuss new ideas.  
